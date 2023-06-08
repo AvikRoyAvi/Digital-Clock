@@ -1,2 +1,2 @@
 # Digital-Clock
-Digital clock using Bash code.
+Digital clock using Shell script.
